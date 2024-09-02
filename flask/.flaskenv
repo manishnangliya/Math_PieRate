@@ -1,0 +1,1 @@
+FLASK_APP=maths.app:create_app()
